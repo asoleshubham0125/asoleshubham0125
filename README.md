@@ -12,11 +12,9 @@ Whether it's smart IoT systems, robotics, or creative web apps — I love turnin
 
 ## 🧩 Projects I'm proud of
 - 🎧 **Spotify Clone** – A sleek frontend clone of the Spotify player (HTML, CSS, JS)
-- 🧠 Wearable exoskeletons for movement assistance
-- 🔥 Thermal to sound energy conversion system
 - 🎮 Simon Says game (JS-powered memory challenge)
 - 🔧 Vibration monitoring system for industrial motors
-- 🎧 E-Waste powered Bluetooth speaker system
+
 
 ## 🌱 Currently exploring
 - Soft robotics & continuum manipulators
