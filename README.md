@@ -11,7 +11,7 @@ Whether it's smart IoT systems, robotics, or creative web apps — I love turnin
 - 🧠 Human Activity Recognition using ML
 
 ## 🧩 Projects I'm proud of
-- 🎧 **Spotify Clone** – A sleek frontend clone of the Spotify player (HTML, CSS, JS)
+- 🎧 **Spotify Clone** – A sleek frontend clone of the Spotify player (HTML, CSS)
 - 🎮 Simon Says game (JS-powered memory challenge)
 - 🔧 Vibration monitoring system for industrial motors
 
