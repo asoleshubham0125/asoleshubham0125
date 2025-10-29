@@ -1,27 +1,31 @@
-# Hi there 👋 I'm Shubham!
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Shubham Asole</span></h1>
 
-I'm an ECE undergrad passionate about building cool stuff at the intersection of hardware and software.  
-Whether it's smart IoT systems, robotics, or creative web apps — I love turning ideas into working prototypes.
-
-## 🚀 What I'm into
-- 🤖 Robotics & Embedded Systems (ESP32, Raspberry Pi)
-- 🌐 Full-stack Projects (JS, HTML, CSS)
-- 🎧 Web-based Audio Projects (like Spotify Clone!)
-- 📷 Image Processing & Sensor Integration
-- 🧠 Human Activity Recognition using ML
-
-## 🧩 Projects I'm proud of
-- 🎧 **Spotify Clone** – A sleek frontend clone of the Spotify player (HTML, CSS)
-- 🎮 Simon Says game (JS-powered memory challenge)
-- 🔧 Vibration monitoring system for industrial motors
-
-
-## 🌱 Currently exploring
-- Soft robotics & continuum manipulators
-- UI/UX tools to improve hardware interaction
+<p align="center">
+  <b>ECE Undergrad @ IIITDM Kancheepuram</b> • <b>Software & Embedded Systems Developer</b><br>
+  Building things where <b>hardware meets software</b> ⚙️
+</p>
 
 ---
 
-> Built with 💚 music, tech, and curiosity.  
-> 💬 Let's collaborate or connect — always down to build something awesome!
-> 📩 Gmail: asoleshubham01@gmail.com
+### 🚀 About Me  
+💡 I’m passionate about creating **smart systems and scalable applications** that blend **electronics, code, and creativity**.  
+From **IoT and robotics** to **full-stack web apps**, I enjoy turning innovative ideas into real-world tech solutions.  
+
+---
+
+### 🧠 What I’m Into  
+- 🤖 **Embedded Systems & IoT** — ESP32, Raspberry Pi, and sensor networks  
+- 🌐 **Full-Stack Development** — Node.js, Express.js, MongoDB, React  
+- 🎧 **Creative Web Projects** — Spotify Clone, Simon Says Game  
+- 📊 **Data & ML** — Human Activity Recognition, Predictive Analytics  
+- ⚙️ **Hardware-Software Integration** — Image Processing, Vibration Monitoring  
+
+---
+
+### 🧩 Featured Projects  
+| 🚀 Project | 🧠 Description | 🛠️ Tech Stack |
+|-------------|----------------|----------------|
+| 🏠 [**GoBnB**](https://gobnb-3cmh.onrender.com) | Full-stack accommodation booking app inspired by Airbnb | Node.js, Express, MongoDB, EJS, Mapbox, Cloudinary |
+| 🎧 **Spotify Clone** | Responsive frontend clone of Spotify’s web player | HTML, CSS, JavaScript |
+| 🎮 **Simon Says Game** | Interactive memory-based pattern game | JavaScript, DOM |
+| ⚙️ **Vibration Monitoring System** | Real-time motor health tracker using sensors | Embedded C, ESP
