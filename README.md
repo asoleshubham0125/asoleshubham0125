@@ -7,37 +7,27 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-009688?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-4285F4?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-💡 Passionate about creating **smart systems** that seamlessly combine **electronics, code, and creativity**.  
-I love exploring where **hardware meets software**, from **IoT sensors** to **full-stack applications** and **ML-driven analytics**.
+💡 Passionate about creating **smart systems** that blend **electronics, software, and data** to solve real-world problems.  
+I love exploring where **hardware meets code**, from IoT sensors to full-stack applications and ML-based analytics.  
 
 ---
 
 ## 🧠 What I’m Into  
 
-- 🤖 **Embedded Systems & IoT** — ESP32, Raspberry Pi, and sensor networks  
 - 🌐 **Full-Stack Development** — Node.js, Express.js, MongoDB, React  
-- 🎧 **Creative Web Projects** — Spotify Clone, Simon Says Game  
-- 📊 **Data & ML** — Human Activity Recognition, Predictive Analytics  
-- ⚙️ **Hardware-Software Integration** — Image Processing, Vibration Monitoring  
+- 📊 **Machine Learning & Data Visualization** — Pandas, Seaborn, Matplotlib  
+- 🎨 **Frontend Crafting** — Responsive UI using HTML5, CSS3, and Bootstrap
+- 🤖 **Embedded Systems & IoT** — ESP32, Raspberry Pi, and sensor networks  
 
 ---
 
@@ -45,53 +35,74 @@ I love exploring where **hardware meets software**, from **IoT sensors** to **fu
 
 | 🚀 Project | 🧠 Description | 🛠️ Tech Stack |
 |-------------|----------------|----------------|
-| 🏠 [**GoBnB**](https://gobnb-3cmh.onrender.com) | Full-stack accommodation booking app inspired by Airbnb | Node.js • Express • MongoDB • EJS • Mapbox • Cloudinary |
+| 🏠 [**GoBnB**](https://gobnb-3cmh.onrender.com) | Full-stack accommodation booking app inspired by Airbnb | Node.js • Express.js • MongoDB • EJS • Mapbox • Cloudinary |
 | 🌤️ [**Weather Widgets**](https://github.com/asoleshubham0125/Weather-Widgets) | Real-time weather info using OpenWeather API | React • Vite • Material UI • OpenWeather API |
-| 🎧 **Spotify Clone** | Responsive frontend clone of Spotify’s web player | HTML • CSS • JavaScript |
+| 🎮 [**Snake Game**](#-snake-game-) | Classic snake game built using HTML, CSS, and JavaScript | HTML • CSS • JavaScript |
 | 🎮 **Simon Says Game** | Interactive memory-based pattern game | JavaScript • DOM Manipulation |
-
+| 🎧 **Spotify Clone** | Responsive frontend clone of Spotify’s web player | HTML • CSS |
 
 ---
 
-## 🛠️ Tech Stack Summary  
+## 🛠️ Technical Skills  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,java,c,cpp,arduino,git,github,vscode,linux,html,css,javascript&perline=9"/>
+### 💻 **Programming & Scripting**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
+### 🌐 **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
-## 🧠 Currently Exploring  
+### ⚙️ **Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
 
-- 🌐 **MERN Stack Advanced Patterns**  
-- ☁️ **Cloud & DevOps Basics (Docker, AWS)**  
-- 🤖 **AI + IoT Integration**  
-- 🧩 **System Design and Scalable Architectures**
+### 📊 **Data Science & ML**
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3182bd?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
----
-
-## 💡 My Philosophy  
-
-> *"Code is art when it solves real-world problems efficiently and elegantly."*  
-> — Shubham Asole
+### 🧰 **Tools & Version Control**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🏆 Achievements  
+## 🧠 Currently Exploring  
 
-- 🎓 **IIITDM Kancheepuram** — Electronics & Communication Engineering  
-- 🧰 **Internships / Projects:** VSSC ISRO, Embedded Systems, Supply Chain Digitization (IIMA)  
-- 🥇 **Certified:** NPTEL Java Programming, MATLAB DSP Analysis, Energy Harvesting  
-- 💬 **Experience:** Web apps, Embedded devices, Signal processing, Sensor systems  
+- MERN Stack Deep Dive  
+- RESTful APIs and GraphQL  
+- Cloud Deployment (AWS, Render)  
+- AI + IoT Applications  
 
 ---
 
@@ -101,7 +112,6 @@ I love exploring where **hardware meets software**, from **IoT sensors** to **fu
   <a href="mailto:asoleshubham0125@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/asoleshubham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/asoleshubham0125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://asoleshubham0125.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
