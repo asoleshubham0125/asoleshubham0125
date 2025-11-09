@@ -37,9 +37,9 @@ I love exploring where **hardware meets code**, from IoT sensors to full-stack a
 |-------------|----------------|----------------|
 | 🏠 [**GoBnB**](https://gobnb-3cmh.onrender.com) | Full-stack accommodation booking app inspired by Airbnb | Node.js • Express.js • MongoDB • EJS • Mapbox • Cloudinary |
 | 🌤️ [**Weather Widgets**](https://github.com/asoleshubham0125/Weather-Widgets) | Real-time weather info using OpenWeather API | React • Vite • Material UI • OpenWeather API |
-| 🎮 [**Snake Game**](#-snake-game-) | Classic snake game built using HTML, CSS, and JavaScript | HTML • CSS • JavaScript |
-| 🎮 **Simon Says Game** | Interactive memory-based pattern game | JavaScript • DOM Manipulation |
-| 🎧 **Spotify Clone** | Responsive frontend clone of Spotify’s web player | HTML • CSS |
+| 🎮 [**Snake Game**](https://github.com/asoleshubham0125/SnakeGame) | Classic snake game built using HTML, CSS, and JavaScript | HTML • CSS • JavaScript |
+| 🎮 [**Simon Says Game**](https://github.com/asoleshubham0125/Simon-says-game) | Interactive memory-based pattern game | JavaScript • DOM Manipulation |
+| 🎧 [**Spotify Clone**](https://github.com/asoleshubham0125/Spotify-Clone) | Responsive frontend clone of Spotify’s web player | HTML • CSS |
 
 ---
 
