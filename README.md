@@ -22,26 +22,26 @@ I love exploring where **hardware meets code**, from IoT sensors to full-stack a
 
 ---
 
-# 🛠️ Technical Skills (Clean & Organized)
+# 🛠️ Technical Skills 
 
-## 💻 **Programming Languages**
+### 💻 **Programming Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,py,cpp" />
 </p>
 
-## 🌐 **Frontend Development**
+### 🌐 **Frontend Development**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
   <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-## ⚙️ **Backend & Databases**
+### ⚙️ **Backend & Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
 </p>
 
-## 📊 **Data Science & ML**
+### 📊 **Data Science & ML**
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -50,21 +50,21 @@ I love exploring where **hardware meets code**, from IoT sensors to full-stack a
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-## 🤖 **Embedded Systems & IoT**
+### 🤖 **Embedded Systems & IoT**
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sensors-555555?style=for-the-badge"/>
 </p>
 
-## 🧰 **Tools & Version Control**
+### 🧰 **Tools & Version Control**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -73,7 +73,7 @@ I love exploring where **hardware meets code**, from IoT sensors to full-stack a
 
 ---
 
-## 🧠 Currently Exploring  
+### 🧠 Currently Exploring  
 
 - MERN Stack Deep Dive  
 - RESTful APIs & GraphQL  
