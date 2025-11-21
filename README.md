@@ -26,7 +26,7 @@ I love exploring where **hardware meets code**, from IoT sensors to full-stack a
 
 ### 💻 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,py,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,py" />
 </p>
 
 ### 🌐 **Frontend Development**
