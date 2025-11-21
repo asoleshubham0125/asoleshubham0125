@@ -1,122 +1,170 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Shubham Asole</span></h1>
+# 👋 Hi, I'm **Shubham Asole**
 
 <p align="center">
-  <b>🎓 ECE Undergrad @ <a href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a></b><br>
-  <b>💻 Software & Embedded Systems Developer</b><br>
-  Building things where <b>hardware meets software</b> ⚙️
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Monaco&size=26&pause=1300&color=00BCD4&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Embedded+Systems+Engineer;Open-Source+Contributor;ECE+Undergrad+%40+IIITDM+Kancheepuram" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-💡 Passionate about creating **smart systems** that blend **electronics, software, and data** to solve real-world problems.  
-I love exploring where **hardware meets code**, from IoT sensors to full-stack applications and ML-based analytics.  
-
----
-
-## 🧠 What I’m Into  
-
-- 🌐 **Full-Stack Development** — Node.js, Express.js, MongoDB, React  
-- 📊 **Machine Learning & Data Visualization** — Pandas, Seaborn, Matplotlib  
-- 🎨 **Frontend Crafting** — Responsive UI using HTML5, CSS3, and Bootstrap
-- 🤖 **Embedded Systems & IoT** — ESP32, Raspberry Pi, and sensor networks  
+I build **scalable web applications**, **real-time embedded systems**, and **API-driven backend architectures**.  
+Comfortable across the full stack — from **C/Python on ESP32** to **React dashboards** & **Node.js APIs**.
 
 ---
 
-## 🧩 Featured Projects  
+# 🧩 Tech Stack (Icon Grid)
 
-| 🚀 Project | 🧠 Description | 🛠️ Tech Stack |
-|-------------|----------------|----------------|
-| 🏠 [**GoBnB**](https://gobnb-3cmh.onrender.com) | Full-stack accommodation booking app inspired by Airbnb | Node.js • Express.js • MongoDB • EJS • Mapbox • Cloudinary |
-| 🌤️ [**Weather Widgets**](https://github.com/asoleshubham0125/Weather-Widgets) | Real-time weather info using OpenWeather API | React • Vite • Material UI • OpenWeather API |
-| 🎮 [**Snake Game**](https://github.com/asoleshubham0125/SnakeGame) | Classic snake game built using HTML, CSS, and JavaScript | HTML • CSS • JavaScript |
-| 🎮 [**Simon Says Game**](https://github.com/asoleshubham0125/Simon-says-game) | Interactive memory-based pattern game | JavaScript • DOM Manipulation |
-| 🎧 [**Spotify Clone**](https://github.com/asoleshubham0125/Spotify-Clone) | Responsive frontend clone of Spotify’s web player | HTML • CSS |
-
----
-
-## 🛠️ Technical Skills  
-
-### 💻 **Programming & Scripting**
+### **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,html,css" />
 </p>
 
-### 🌐 **Frontend Development**
+### **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,bootstrap" />
 </p>
 
-### ⚙️ **Backend & Databases**
+### **Backend & Database**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 📊 **Data Science & ML**
+### **Tools**
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3182bd?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman" />
 </p>
 
-### 🧰 **Tools & Version Control**
+### **Embedded & IoT**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+# 📦 Featured Projects  
+(Collapsible sections for clean layout)
+
+<details>
+<summary><h3>📊 StatzHub – Full-Stack Trading & Investment Platform</h3></summary>
+
+- Modular REST APIs (Node + Express)  
+- JWT auth, schema optimization  
+- Automated backend tests  
+- Responsive React dashboard  
+- Git-based collaboration  
+
+🔗 GitHub | 🔧 Tech: React, Node, Express, MongoDB, JWT  
+</details>
+
+---
+
+<details>
+<summary><h3>🏠 GoBnB – Accommodation Booking Platform</h3></summary>
+
+- Airbnb-like booking system  
+- Passport.js auth + sessions  
+- Cloudinary images + Mapbox maps  
+- MVC architecture, EJS-Mate templates  
+- Server-side validation with Joi  
+
+🔗 Live Demo • GitHub  
+🔧 Tech: Node.js, Express.js, MongoDB, Mapbox, Cloudinary  
+</details>
+
+---
+
+<details>
+<summary><h3>🌤️ Weather Widgets – React + OpenWeather</h3></summary>
+
+- Live API fetching  
+- Modular components  
+- Material UI styling  
+- Vite for lightning-fast performance  
+
+🔗 GitHub  
+🔧 Tech: React, Vite, MUI  
+</details>
+
+---
+
+<details>
+<summary><h3>🐍 Snake Game – Classic Browser Game</h3></summary>
+
+- Collision detection  
+- Dynamic scoring  
+- Smooth animation + sound effects  
+
+🔗 GitHub  
+</details>
+
+---
+
+# 🔧 Experience
+
+### **Embedded Systems Intern — Startrit Infratech (May–July 2025)**  
+- Sensor & motor driver modules (C/Python)  
+- Hardware testing automation  
+- Agile workflow (sprints, demos)  
+- GitHub-based collaboration  
+
+---
+
+# 📈 GitHub Analytics
+
+### **Auto Dark/Light Stats**
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&hide_border=true&count_private=true&theme=default#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&hide_border=true&count_private=true&theme=tokyonight#gh-dark-mode-only">
 </p>
-
----
-
-## 🧠 Currently Exploring  
-
-- MERN Stack Deep Dive  
-- RESTful APIs and GraphQL  
-- Cloud Deployment (AWS, Render)  
-- AI + IoT Applications  
-
----
-
-## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="mailto:asoleshubham0125@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shubham-asole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/asoleshubham0125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&hide_border=true&theme=default#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&hide_border=true&theme=tokyonight#gh-dark-mode-only">
 </p>
 
 ---
 
+# 📊 Contribution Graph
+
 <p align="center">
-  <b>⭐ If you like my work, consider giving my repositories a star!</b><br><br>
-  <img src="https://img.shields.io/github/stars/asoleshubham0125?style=social" alt="GitHub Stars"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=asoleshubham0125&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+# 🏙️ 3D GitHub Skyline
+
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-3d/blob/master/assets/3d-contrib.gif?raw=true" width="70%" />
+</p>
+
+🔗 View your live skyline:  
+https://skyline.github.com/asoleshubham0125/
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/asoleshubham0125/count.svg" />
+</p>
+
+---
+
+# 🤝 Connect With Me  
+
+<p align="center">
+  <a href="mailto:asoleshubham01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shubham-asole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/asoleshubham0125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+# ⭐ If you like my work, consider giving the repositories a star!
