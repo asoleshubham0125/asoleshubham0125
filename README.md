@@ -1,164 +1,96 @@
 # 👋 Hi, I'm **Shubham Asole**
 
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monaco&size=26&pause=1300&color=00BCD4&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Embedded+Systems+Engineer;Open-Source+Contributor;ECE+Undergrad+%40+IIITDM+Kancheepuram" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monaco&size=25&pause=1200&color=00BCD4&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Developer;Embedded+Systems+Enthusiast;ECE+Undergrad+%40+IIITDM+Kancheepuram" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-I build **scalable web applications**, **real-time embedded systems**, and **API-driven backend architectures**.  
-Comfortable across the full stack — from **C/Python on ESP32** to **React dashboards** & **Node.js APIs**.
+## 🚀 About Me  
+I enjoy building **scalable applications**, **useful APIs**, and **real-time embedded systems**.  
+I work across the stack — from **ESP32 & sensors** to **React & Node.js** Web Apps.
 
 ---
 
-# 🧩 Tech Stack (Icon Grid)
+## 🧩 Tech Stack
 
 ### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,py,cpp" />
 
 ### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css" />
 
 ### **Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
 ### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
 
 ### **Embedded & IoT**
-<p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
-</p>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
 
 ---
 
-# 📦 Featured Projects  
-(Collapsible sections for clean layout)
+## 📦 Featured Projects
 
-<details>
-<summary><h3>📊 StatzHub – Full-Stack Trading & Investment Platform</h3></summary>
-
-- Modular REST APIs (Node + Express)  
-- JWT auth, schema optimization  
+### 📊 **StatzHub – Trading & Investment Platform**
+- REST APIs, JWT auth, MongoDB  
 - Automated backend tests  
-- Responsive React dashboard  
-- Git-based collaboration  
-
-🔗 GitHub | 🔧 Tech: React, Node, Express, MongoDB, JWT  
-</details>
+- React dashboard  
+🔗 GitHub
 
 ---
 
-<details>
-<summary><h3>🏠 GoBnB – Accommodation Booking Platform</h3></summary>
-
-- Airbnb-like booking system  
-- Passport.js auth + sessions  
-- Cloudinary images + Mapbox maps  
-- MVC architecture, EJS-Mate templates  
-- Server-side validation with Joi  
-
-🔗 Live Demo • GitHub  
-🔧 Tech: Node.js, Express.js, MongoDB, Mapbox, Cloudinary  
-</details>
+### 🏠 **GoBnB – Accommodation Booking App**
+- Airbnb-style booking  
+- Cloudinary uploads + Mapbox maps  
+- Passport.js authentication  
+🔗 Live Demo • GitHub
 
 ---
 
-<details>
-<summary><h3>🌤️ Weather Widgets – React + OpenWeather</h3></summary>
-
-- Live API fetching  
+### 🌤️ **Weather Widgets – React App**
+- OpenWeather API  
 - Modular components  
-- Material UI styling  
-- Vite for lightning-fast performance  
-
-🔗 GitHub  
-🔧 Tech: React, Vite, MUI  
-</details>
+- Material UI design  
+🔗 GitHub
 
 ---
 
-<details>
-<summary><h3>🐍 Snake Game – Classic Browser Game</h3></summary>
-
-- Collision detection  
+### 🐍 **Snake Game (Browser Game)**
+- Collision logic  
 - Dynamic scoring  
-- Smooth animation + sound effects  
-
-🔗 GitHub  
-</details>
+🔗 GitHub
 
 ---
 
-# 🔧 Experience
+## 🔧 Experience
 
-### **Embedded Systems Intern — Startrit Infratech (May–July 2025)**  
-- Sensor & motor driver modules (C/Python)  
-- Hardware testing automation  
-- Agile workflow (sprints, demos)  
-- GitHub-based collaboration  
+### **Embedded Systems Intern — Startrit Infratech (May–July 2025)**
+- Worked on sensors, motor drivers  
+- C & Python for embedded workflows  
+- Automated testing  
+- Agile development & GitHub collaboration  
 
 ---
 
-# 📈 GitHub Analytics
-
-### **Auto Dark/Light Stats**
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&hide_border=true&count_private=true&theme=default#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&hide_border=true&count_private=true&theme=tokyonight#gh-dark-mode-only">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&hide_border=true&theme=default#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&hide_border=true&theme=tokyonight#gh-dark-mode-only">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=asoleshubham0125&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🏙️ 3D GitHub Skyline
-
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-3d/blob/master/assets/3d-contrib.gif?raw=true" width="70%" />
-</p>
-
-🔗 View your live skyline:  
-https://skyline.github.com/asoleshubham0125/
-
----
-
-# 👀 Visitor Counter
-
+## 👀 Visitor Count  
 <p align="center">
   <img src="https://profile-counter.glitch.me/asoleshubham0125/count.svg" />
 </p>
 
 ---
 
-# 🤝 Connect With Me  
-
+## 🤝 Connect With Me  
 <p align="center">
   <a href="mailto:asoleshubham01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shubham-asole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -167,4 +99,6 @@ https://skyline.github.com/asoleshubham0125/
 
 ---
 
-# ⭐ If you like my work, consider giving the repositories a star!
+<p align="center">
+  ⭐ If you like my work, feel free to star the repositories!
+</p>
