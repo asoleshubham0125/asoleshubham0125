@@ -83,7 +83,7 @@ Software engineer with a strong foundation in DSA, OOP, and systems design — f
 
 ## 🚀 Featured Projects
 
-### [LoadMitrra](https://github.com/asoleshubham0125/LoadMitrra) — Full-Stack MERN Freight Matching Platform
+### [LoadMitrra](https://github.com/asoleshubham0125/LoadMitrraApp) — Full-Stack MERN Freight Matching Platform
 > Architected a dual-portal B2B logistics system that eliminated unauthorized cross-portal access for 100% of user actions, by implementing custom RBAC middleware with stateless JWT authentication and Axios interceptors.
 > Achieved near-zero message latency across all cross-user communications, by replacing HTTP polling with a real-time, room-based WebSocket layer engineered via Socket.io.
 > Enforced strict data consistency across a 5-stage shipment lifecycle, by building robust Express.js REST APIs and deeply nested Mongoose schemas supporting dynamic state transitions and automated billing.
@@ -92,7 +92,7 @@ Software engineer with a strong foundation in DSA, OOP, and systems design — f
 
 ---
 
-### [CLIPFORGE](https://github.com/asoleshubham0125/clipforge) — AI Viral Content Generation SaaS
+### [CLIPFORGE](https://github.com/asoleshubham0125/CLIPFORGE.ai) — AI Viral Content Generation SaaS
 > Automated the generation of professional lifestyle marketing creatives from raw uploads, eliminating manual design bottlenecks, by integrating the Google Gemini API into a full-stack PERN pipeline.
 > Secured 100% of backend routes and user sessions with production-grade access control, by integrating Clerk Auth alongside custom middleware and webhook-based data syncing.
 > Optimized media storage and CDN delivery for high-speed file access and on-the-fly image transformations, by configuring Cloudinary with a credit-based SaaS monetization layer.
