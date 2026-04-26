@@ -1,153 +1,188 @@
-<h1 align="center">Hey, I'm Shubham Asole 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>ECE Undergrad @ <a href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a> &nbsp;·&nbsp; Graduating May 2026</b><br/>
-  Full-Stack Developer &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; Problem Solver
-</p>
+```
+███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
+██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║
+███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║
+╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║
+███████║██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### **Shubham Dattatray Asole**
 
----
+*Full-Stack Engineer · Backend Systems · Embedded Dev*
 
-## 🙋 About Me
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asoleshubham01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-asole)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/asoleshubham0125)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
-Software engineer with a strong foundation in DSA, OOP, and systems design — focused on building scalable backend services and responsive full-stack applications.
+![Profile views](https://komarev.com/ghpvc/?username=asoleshubham0125&color=00b4d8&style=flat-square)
 
-- 🔭 Currently building production-grade MERN applications with real-time features and AI integrations
-- 🌱 Deepening expertise in cloud deployment, system design, and TypeScript-first development
-- ⚡ Bridge between software and hardware — from WebSocket-powered logistics platforms to ESP32-based inspection systems
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
-</p>
-
-### 🧰 Testing & QA
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,postman" />
-  <img src="https://img.shields.io/badge/Automated_Testing-00897B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Regression_Testing-555555?style=for-the-badge"/>
-</p>
-
-### ☁️ DevOps & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD_Basics-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### 🤖 Embedded Systems & AI/ML
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3182bd?style=for-the-badge&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `$ whoami`
 
-### [LoadMitrra](https://github.com/asoleshubham0125/LoadMitrraApp) — Full-Stack MERN Freight Matching Platform
-> Architected a dual-portal B2B logistics system that eliminated unauthorized cross-portal access for 100% of user actions, by implementing custom RBAC middleware with stateless JWT authentication and Axios interceptors.
-> Achieved near-zero message latency across all cross-user communications, by replacing HTTP polling with a real-time, room-based WebSocket layer engineered via Socket.io.
-> Enforced strict data consistency across a 5-stage shipment lifecycle, by building robust Express.js REST APIs and deeply nested Mongoose schemas supporting dynamic state transitions and automated billing.
+```yaml
+name      : Shubham Dattatray Asole
+degree    : B.Tech ECE @ IIITDM Kancheepuram (May 2026)
+focus     : Scalable Backend · Full-Stack MERN/PERN · Real-Time Systems
+currently : Building production SaaS apps with AI integrations
+seeking   : SDE roles — backend, full-stack, or systems engineering
+```
 
-**Stack:** React · Node.js · Express.js · MongoDB · Socket.io · JWT · Google Maps SDK · Leaflet
-
----
-
-### [CLIPFORGE](https://github.com/asoleshubham0125/CLIPFORGE.ai) — AI Viral Content Generation SaaS
-> Automated the generation of professional lifestyle marketing creatives from raw uploads, eliminating manual design bottlenecks, by integrating the Google Gemini API into a full-stack PERN pipeline.
-> Secured 100% of backend routes and user sessions with production-grade access control, by integrating Clerk Auth alongside custom middleware and webhook-based data syncing.
-> Optimized media storage and CDN delivery for high-speed file access and on-the-fly image transformations, by configuring Cloudinary with a credit-based SaaS monetization layer.
-
-**Stack:** React · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · Clerk · Cloudinary · Sentry
+> Aspiring Software Engineer with a strong foundation in **DSA, OOP, and system design** — focused on shipping scalable backend services and responsive full-stack products. Bridge between software and hardware: from WebSocket-driven logistics platforms to ESP32-based industrial inspection systems.
 
 ---
 
-### [StatzHub](https://github.com/asoleshubham0125/StatzHub) — Full-Stack Trading & Investment Platform
-> Engineered a Zerodha-style trading system simulating core portfolio workflows, by architecting a multi-app MERN codebase (frontend + dashboard + backend) with clean separation of concerns.
-> Visualized portfolio distribution and performance insights for all users, by integrating Chart.js and react-chartjs-2 to render doughnut and bar chart analytics.
-> Secured all trading routes and authenticated user sessions, by implementing JWT-based middleware protection across independent frontend and dashboard environments.
+## `$ ls skills/`
 
-**Stack:** React · Context API · Node.js · Express.js · MongoDB · Chart.js · JWT
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**Languages**
+`Java` `JavaScript` `TypeScript` `Python` `SQL` `Bash`
 
-### [GoBnB](https://github.com/asoleshubham0125/GoBnB) — Full-Stack Accommodation Booking Platform
-> Delivered an end-to-end Airbnb-inspired booking experience with property listings, search, and bookings, by building RESTful APIs with Express.js and MongoDB following strict MVC architecture.
-> Enabled interactive property discovery with coordinate-driven search, by integrating Mapbox geocoding and maps for accurate location rendering.
-> Enforced authentication and session security for all user flows, by implementing Passport.js, express-session, and connect-flash with Joi-based request validation.
+**Frontend**
+`React` `Redux` `Context API` `Material UI` `Chart.js` `Bootstrap` `EJS`
 
-**Stack:** Node.js · Express.js · MongoDB · EJS · Passport.js · Cloudinary · Mapbox · Bootstrap
+**Backend & APIs**
+`Node.js` `Express.js` `FastAPI` `REST APIs` `WebSockets` `JWT` `Clerk`
 
----
+</td>
+<td valign="top" width="50%">
 
-## 📊 GitHub Stats
+**Databases**
+`MongoDB` `PostgreSQL` `MySQL` `Mongoose` `Prisma ORM`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**DevOps & Cloud**
+`Git` `GitHub` `Linux` `Vercel` `Render` `CI/CD` `Sentry` `Cloudinary`
 
----
+**Embedded & AI/ML**
+`ESP32` `Arduino` `Raspberry Pi` `Google Gemini API` `OpenAI` `Pandas` `Seaborn`
 
-## 🧠 Currently Exploring
-
-- System Design fundamentals and scalable architecture patterns
-- TypeScript-first backend development with Prisma and PostgreSQL
-- Cloud deployment pipelines on AWS
-- AI API integrations (Gemini, OpenAI) in production SaaS workflows
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+## `$ cat projects/`
 
-<p align="center">
-  <a href="mailto:asoleshubham01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shubham-asole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/asoleshubham0125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+### 🚛 [LoadMitrra](https://github.com/asoleshubham0125/LoadMitrraApp) — Full-Stack MERN Freight Matching Platform
+
+> **[Live Demo →](https://loadmitrra.vercel.app)**  &nbsp; `React` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT` `Google Maps SDK`
+
+- **Eliminated** unauthorized cross-portal access for 100% of user actions by engineering custom RBAC middleware with stateless JWT authentication and Axios interceptors across independent driver and supplier environments.
+- **Achieved** near-zero message latency in cross-user coordination by replacing HTTP polling with a real-time, room-based WebSocket layer built on Socket.io, ensuring instant delivery of load-specific communications.
+- **Enforced** strict data consistency across a 5-stage shipment lifecycle by developing robust Express.js REST APIs and deeply nested Mongoose schemas supporting dynamic state transitions and automated billing.
+- **Boosted** location-based load discovery accuracy by integrating React Google Maps SDK and Leaflet for coordinate-driven, dynamic route visualization of pickup and drop-off points.
+- **Guaranteed** 100% perceived message delivery in low-connectivity scenarios by implementing optimistic UI rendering fallbacks on a production-grade Vercel + Render deployment.
 
 ---
 
-<p align="center">
-  <b>⭐ Found something useful? A star on a repo goes a long way!</b><br/><br/>
-  <img src="https://img.shields.io/github/stars/asoleshubham0125?style=social" />
-</p>
+### 🎬 [CLIPFORGE.ai](https://github.com/asoleshubham0125/CLIPFORGE.ai) — AI Viral Content Generation SaaS
+
+> **[Live Demo →](https://clipforge-ai.vercel.app)**  &nbsp; `React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Clerk` `Cloudinary` `Sentry`
+
+- **Architected** a full-stack AI SaaS platform on the PERN stack to automate viral marketing creative generation from raw uploads, achieving a scalable, production-ready media pipeline.
+- **Integrated** the Google Gemini API to power an automated image and video synthesis pipeline, eliminating manual design bottlenecks for professional lifestyle marketing content.
+- **Secured** 100% of backend routes and user sessions by implementing Clerk Auth alongside custom middleware and webhook-based data syncing for production-grade access control.
+- **Engineered** a credit-based SaaS monetization layer with a React frontend to enforce API usage limits, enabling a profitable subscription model with responsive UX.
+- **Optimized** media storage and CDN delivery by configuring Cloudinary for high-speed file access and on-the-fly image transformations at scale.
+- **Streamlined** deployment and error monitoring by integrating Sentry for real-time tracking, significantly reducing mean time to debug production incidents.
+
+---
+
+### 📈 [StatzHub](https://github.com/asoleshubham0125/StatzHub) — Full-Stack Trading & Investment Platform
+
+> `React` `Context API` `Node.js` `Express.js` `MongoDB` `Chart.js` `JWT`
+
+- **Built** a Zerodha-style MERN trading platform simulating core portfolio workflows across a multi-app architecture (frontend + dashboard + backend) with clean separation of concerns.
+- **Engineered** a feature-rich trading dashboard with Watchlist, Holdings, Positions, Orders, and Summary modules using React and Context API for shared state management.
+- **Visualized** portfolio distribution and performance insights using Chart.js doughnut and bar charts, giving users clear analytics across their holdings.
+- **Secured** all trading routes with JWT-based middleware protection across independent frontend and dashboard environments.
+
+---
+
+### 🏠 [GoBnB](https://github.com/asoleshubham0125/GoBnB) — Full-Stack Accommodation Booking Platform
+
+> **[Live Demo →](https://gobnb.onrender.com)**  &nbsp; `Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary` `Mapbox`
+
+- **Delivered** an end-to-end Airbnb-inspired booking experience by building RESTful APIs with Express.js and MongoDB following strict MVC architecture.
+- **Integrated** Mapbox geocoding and interactive maps for coordinate-driven property discovery and accurate location rendering.
+- **Enforced** authentication and session security using Passport.js, express-session, and Joi-based request validation for all user flows.
+
+---
+
+### ⚙️ Railway Sleeper Block Dimension Validation System
+
+> `ESP32` `IR Sensors` `Camera Modules` `Embedded C`
+
+- **Built** an automated inspection system using ESP32, IR sensors, and camera modules to validate railway sleeper block dimensions with ±10 mm tolerance, minimizing manual intervention.
+- **Improved** inspection throughput by automating the top-view and side-view validation workflow, reducing manual labor for repetitive quality checks.
+
+---
+
+### 🌤️ [Weather Widgets](https://github.com/asoleshubham0125/WeatherWidgets) · [Simon Says](https://github.com/asoleshubham0125/SimonSays) · [Spotify UI Clone](https://github.com/asoleshubham0125/SpotifyClone) · [Snake Game](https://github.com/asoleshubham0125/SnakeGame)
+
+> Smaller builds showcasing React API integration, algorithmic game logic, OOP patterns, and responsive CSS layouts.
+
+---
+
+## `$ cat experience/`
+
+### Embedded Systems Intern — Startrit Infratech Pvt. Ltd. *(May 2025 – July 2025)*
+
+- **Improved** automation system reliability by developing sensor-based control modules using Embedded C and Python to support stable real-time operations.
+- **Validated** hardware–software communication by building and testing a Raspberry Pi robotic prototype with UART for accurate data transmission and device control.
+- **Accelerated** inspection and analysis workflows by running MATLAB-based simulations and performing structured data analysis to support engineering decisions.
+
+---
+
+## `$ cat education/`
+
+**B.Tech — Electronics and Communication Engineering**
+Indian Institute of Information Technology Design and Manufacturing, Kancheepuram
+`Nov 2022 – May 2026`
+
+> **Hostel Affairs Coordinator** *(Mar 2023 – Apr 2024)* — Managed hostel operations for 1000+ residents; coordinated logistics, resolved student concerns, and led a team of student volunteers for hostel-wide events.
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asoleshubham0125&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asoleshubham0125&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=asoleshubham0125&theme=github-dark-blue&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## `$ cat currently_learning.txt`
+
+```
+▸ System Design — scalable architecture patterns, CAP theorem, distributed systems
+▸ TypeScript-first backend development with Prisma + PostgreSQL
+▸ Cloud deployment pipelines on AWS (EC2, S3, RDS)
+▸ AI API integrations in production SaaS (Gemini, OpenAI)
+```
+
+---
+
+<div align="center">
+
+*Open to full-time SDE roles and internships — let's build something great.*
+
+[![Gmail](https://img.shields.io/badge/asoleshubham01@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asoleshubham01@gmail.com)
+
+</div>
